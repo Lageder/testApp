@@ -1,0 +1,7 @@
+org\arbitrary\web\app\model\Group$GroupBuilder.class
+org\arbitrary\web\app\model\Group.class
+org\arbitrary\web\app\service\GroupService.class
+org\arbitrary\web\app\Application.class
+org\arbitrary\web\app\controller\GroupController.class
+org\arbitrary\web\app\repository\GroupRepository.class
+org\arbitrary\web\app\model\GroupInformation.class
